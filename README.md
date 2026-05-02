@@ -373,7 +373,7 @@ jupyter notebook AHMET_KOÇ_22040101033_TheMineStormCrew.ipynb
 
 **Ahmet Koç**
 ahmetkoc.iletisim@gmail.com
-22040101033
+
 
 ---
 
